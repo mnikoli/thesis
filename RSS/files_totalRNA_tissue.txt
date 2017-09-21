@@ -1,0 +1,79 @@
+# Heart  (was Heart tissue)
+https://www.encodeproject.org/files/ENCFF001RMX/@@download/ENCFF001RMX.fastq.gz
+https://www.encodeproject.org/files/ENCFF001RMW/@@download/ENCFF001RMW.fastq.gz
+
+# Heart
+https://www.encodeproject.org/files/ENCFF001RPB/@@download/ENCFF001RPB.fastq.gz
+https://www.encodeproject.org/files/ENCFF001RPA/@@download/ENCFF001RPA.fastq.gz
+
+# Heart left ventricle
+https://www.encodeproject.org/files/ENCFF781VGS/@@download/ENCFF781VGS.fastq.gz
+https://www.encodeproject.org/files/ENCFF466ZAS/@@download/ENCFF466ZAS.fastq.gz
+
+# Heart left ventricle
+https://www.encodeproject.org/files/ENCFF731CDK/@@download/ENCFF731CDK.fastq.gz
+https://www.encodeproject.org/files/ENCFF429YOS/@@download/ENCFF429YOS.fastq.gz
+
+# Heart-
+https://www.encodeproject.org/files/ENCFF001RTS/@@download/ENCFF001RTS.fastq.gz
+https://www.encodeproject.org/files/ENCFF001RTR/@@download/ENCFF001RTR.fastq.gz
+
+# Liver
+https://www.encodeproject.org/files/ENCFF001RUA/@@download/ENCFF001RUA.fastq.gz
+https://www.encodeproject.org/files/ENCFF001RTZ/@@download/ENCFF001RTZ.fastq.gz
+
+# Liver
+https://www.encodeproject.org/files/ENCFF001RTY/@@download/ENCFF001RTY.fastq.gz
+https://www.encodeproject.org/files/ENCFF001RTX/@@download/ENCFF001RTX.fastq.gz
+
+# Liver
+https://www.encodeproject.org/files/ENCFF001RNW/@@download/ENCFF001RNW.fastq.gz
+https://www.encodeproject.org/files/ENCFF001RNX/@@download/ENCFF001RNX.fastq.gz
+
+# Liver
+https://www.encodeproject.org/files/ENCFF001RNR/@@download/ENCFF001RNR.fastq.gz
+https://www.encodeproject.org/files/ENCFF001RNQ/@@download/ENCFF001RNQ.fastq.gz
+
+# Testis -- not used so far --- HAVE THEM ALREADY
+#https://www.encodeproject.org/files/ENCFF618HGK/@@download/ENCFF618HGK.fastq.gz
+#https://www.encodeproject.org/files/ENCFF555GLO/@@download/ENCFF555GLO.fastq.gz
+
+# Testis -- these I have as merged
+#https://www.encodeproject.org/files/ENCFF961NRE/@@download/ENCFF961NRE.fastq.gz
+#https://www.encodeproject.org/files/ENCFF531RII/@@download/ENCFF531RII.fastq.gz
+
+# Testis - not used so far
+https://www.encodeproject.org/files/ENCFF959BUF/@@download/ENCFF959BUF.fastq.gz
+https://www.encodeproject.org/files/ENCFF256AHC/@@download/ENCFF256AHC.fastq.gz
+
+# Testis = these I have as merged
+#https://www.encodeproject.org/files/ENCFF140UYT/@@download/ENCFF140UYT.fastq.gz
+#https://www.encodeproject.org/files/ENCFF794EAB/@@download/ENCFF794EAB.fastq.gz
+
+
+# Esophagus squamous epithelium not used so far
+https://www.encodeproject.org/files/ENCFF246QAD/@@download/ENCFF246QAD.fastq.gz
+https://www.encodeproject.org/files/ENCFF412GSM/@@download/ENCFF412GSM.fastq.gz
+
+# Esophagus squamous epithelium - not used so far
+https://www.encodeproject.org/files/ENCFF038JEE/@@download/ENCFF038JEE.fastq.gz
+https://www.encodeproject.org/files/ENCFF897TAN/@@download/ENCFF897TAN.fastq.gz
+
+# Esophagus squamous epithelium - not used so far
+https://www.encodeproject.org/files/ENCFF585TOW/@@download/ENCFF585TOW.fastq.gz
+https://www.encodeproject.org/files/ENCFF230GLF/@@download/ENCFF230GLF.fastq.gz
+
+# Esophagus squamous epithelium - NOT USED SO FAR  ---- THESE I HAVE ALREADY
+#https://www.encodeproject.org/files/ENCFF900BSQ/@@download/ENCFF900BSQ.fastq.gz
+#https://www.encodeproject.org/files/ENCFF184XUR/@@download/ENCFF184XUR.fastq.gz
+
+
+--------------
+#Testis -- not used so far --- HAVE THEM ALREADY
+https://www.encodeproject.org/files/ENCFF618HGK/@@download/ENCFF618HGK.fastq.gz
+https://www.encodeproject.org/files/ENCFF555GLO/@@download/ENCFF555GLO.fastq.gz
+
+#Testis = these I have as merged
+
+https://www.encodeproject.org/files/ENCFF140UYT/@@download/ENCFF140UYT.fastq.gz
+https://www.encodeproject.org/files/ENCFF794EAB/@@download/ENCFF794EAB.fastq.gz

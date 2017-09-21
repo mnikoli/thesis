@@ -1,0 +1,59 @@
+# Ovary
+https://www.encodeproject.org/files/ENCFF419GVS/@@download/ENCFF419GVS.fastq.gz
+https://www.encodeproject.org/files/ENCFF135CVY/@@download/ENCFF135CVY.fastq.gz
+
+# Spleen
+https://www.encodeproject.org/files/ENCFF482WYS/@@download/ENCFF482WYS.fastq.gz
+https://www.encodeproject.org/files/ENCFF058MGQ/@@download/ENCFF058MGQ.fastq.gz
+
+# Spleen
+https://www.encodeproject.org/files/ENCFF926YPC/@@download/ENCFF926YPC.fastq.gz
+https://www.encodeproject.org/files/ENCFF111IRS/@@download/ENCFF111IRS.fastq.gz
+
+# Lung
+https://www.encodeproject.org/files/ENCFF433PKC/@@download/ENCFF433PKC.fastq.gz
+https://www.encodeproject.org/files/ENCFF546XEW/@@download/ENCFF546XEW.fastq.gz
+
+# Lung
+https://www.encodeproject.org/files/ENCFF911WYB/@@download/ENCFF911WYB.fastq.gz
+https://www.encodeproject.org/files/ENCFF723QXK/@@download/ENCFF723QXK.fastq.gz
+
+# Adrenal gland
+https://www.encodeproject.org/files/ENCFF028DUO/@@download/ENCFF028DUO.fastq.gz
+https://www.encodeproject.org/files/ENCFF470RWW/@@download/ENCFF470RWW.fastq.gz
+
+# Adrenal gland
+https://www.encodeproject.org/files/ENCFF709FHN/@@download/ENCFF709FHN.fastq.gz
+https://www.encodeproject.org/files/ENCFF681HNP/@@download/ENCFF681HNP.fastq.gz
+
+# Liver
+https://www.encodeproject.org/files/ENCFF187OKV/@@download/ENCFF187OKV.fastq.gz
+https://www.encodeproject.org/files/ENCFF283RUU/@@download/ENCFF283RUU.fastq.gz
+
+# Liver
+https://www.encodeproject.org/files/ENCFF650JAM/@@download/ENCFF650JAM.fastq.gz
+https://www.encodeproject.org/files/ENCFF803DXA/@@download/ENCFF803DXA.fastq.gz
+
+# Heart
+https://www.encodeproject.org/files/ENCFF770NYA/@@download/ENCFF770NYA.fastq.gz
+https://www.encodeproject.org/files/ENCFF076IRZ/@@download/ENCFF076IRZ.fastq.gz
+
+# Heart
+https://www.encodeproject.org/files/ENCFF464TEM/@@download/ENCFF464TEM.fastq.gz
+https://www.encodeproject.org/files/ENCFF221QNJ/@@download/ENCFF221QNJ.fastq.gz
+
+# Sigmoid colon
+https://www.encodeproject.org/files/ENCFF734ZAD/@@download/ENCFF734ZAD.fastq.gz
+https://www.encodeproject.org/files/ENCFF261RWK/@@download/ENCFF261RWK.fastq.gz
+
+# Sigmoid colon
+https://www.encodeproject.org/files/ENCFF322RPT/@@download/ENCFF322RPT.fastq.gz
+https://www.encodeproject.org/files/ENCFF782AHJ/@@download/ENCFF782AHJ.fastq.gz
+
+# Testis
+https://www.encodeproject.org/files/ENCFF016TGP/@@download/ENCFF016TGP.fastq.gz
+https://www.encodeproject.org/files/ENCFF604DIX/@@download/ENCFF604DIX.fastq.gz
+
+# Testis
+https://www.encodeproject.org/files/ENCFF034BHU/@@download/ENCFF034BHU.fastq.gz
+https://www.encodeproject.org/files/ENCFF788AET/@@download/ENCFF788AET.fastq.gz

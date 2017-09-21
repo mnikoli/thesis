@@ -1,0 +1,110 @@
+# Fibroblast of lung
+https://www.encodeproject.org/files/ENCFF000ENY/@@download/ENCFF000ENY.fastq.gz
+https://www.encodeproject.org/files/ENCFF000EON/@@download/ENCFF000EON.fastq.gz
+
+# Fibroblast of lung
+https://www.encodeproject.org/files/ENCFF000ENZ/@@download/ENCFF000ENZ.fastq.gz
+https://www.encodeproject.org/files/ENCFF000EOA/@@download/ENCFF000EOA.fastq.gz
+
+# IMR90
+https://www.encodeproject.org/files/ENCFF000HCB/@@download/ENCFF000HCB.fastq.gz
+https://www.encodeproject.org/files/ENCFF000HCC/@@download/ENCFF000HCC.fastq.gz
+
+# IMR90
+https://www.encodeproject.org/files/ENCFF000HCI/@@download/ENCFF000HCI.fastq.gz
+https://www.encodeproject.org/files/ENCFF000HCJ/@@download/ENCFF000HCJ.fastq.gz
+
+# IMR90
+https://www.encodeproject.org/files/ENCFF000GZX/@@download/ENCFF000GZX.fastq.gz
+https://www.encodeproject.org/files/ENCFF000HAF/@@download/ENCFF000HAF.fastq.gz
+
+# IMR90
+https://www.encodeproject.org/files/ENCFF000GZY/@@download/ENCFF000GZY.fastq.gz
+https://www.encodeproject.org/files/ENCFF000HAE/@@download/ENCFF000HAE.fastq.gz
+
+# Skeletal muscle myoblast
+https://www.encodeproject.org/files/ENCFF000DRU/@@download/ENCFF000DRU.fastq.gz
+https://www.encodeproject.org/files/ENCFF000DRY/@@download/ENCFF000DRY.fastq.gz
+
+# Skeletal muscle myoblast
+https://www.encodeproject.org/files/ENCFF000DRS/@@download/ENCFF000DRS.fastq.gz
+https://www.encodeproject.org/files/ENCFF000DRW/@@download/ENCFF000DRW.fastq.gz
+
+# Skeletal muscle myoblast
+https://www.encodeproject.org/files/ENCFF000DRV/@@download/ENCFF000DRV.fastq.gz
+https://www.encodeproject.org/files/ENCFF000DRZ/@@download/ENCFF000DRZ.fastq.gz
+
+# Skeletal muscle myoblast
+https://www.encodeproject.org/files/ENCFF000DRT/@@download/ENCFF000DRT.fastq.gz
+https://www.encodeproject.org/files/ENCFF000DRX/@@download/ENCFF000DRX.fastq.gz
+
+# Neural cell
+https://www.encodeproject.org/files/ENCFF002BEB/@@download/ENCFF002BEB.fastq.gz
+https://www.encodeproject.org/files/ENCFF002BEC/@@download/ENCFF002BEC.fastq.gz
+
+# Neural cell
+https://www.encodeproject.org/files/ENCFF002BEF/@@download/ENCFF002BEF.fastq.gz
+https://www.encodeproject.org/files/ENCFF002BEG/@@download/ENCFF002BEG.fastq.gz
+
+# B cell
+https://www.encodeproject.org/files/ENCFF000ESM/@@download/ENCFF000ESM.fastq.gz
+https://www.encodeproject.org/files/ENCFF000ESS/@@download/ENCFF000ESS.fastq.gz
+
+# B cell
+https://www.encodeproject.org/files/ENCFF000ESN/@@download/ENCFF000ESN.fastq.gz
+https://www.encodeproject.org/files/ENCFF000EST/@@download/ENCFF000EST.fastq.gz
+
+# B cell
+https://www.encodeproject.org/files/ENCFF000ESO/@@download/ENCFF000ESO.fastq.gz
+https://www.encodeproject.org/files/ENCFF000ESU/@@download/ENCFF000ESU.fastq.gz
+
+# B cell
+https://www.encodeproject.org/files/ENCFF000ESQ/@@download/ENCFF000ESQ.fastq.gz
+https://www.encodeproject.org/files/ENCFF000ESW/@@download/ENCFF000ESW.fastq.gz
+
+# B cell
+https://www.encodeproject.org/files/ENCFF000ESR/@@download/ENCFF000ESR.fastq.gz
+https://www.encodeproject.org/files/ENCFF000ESY/@@download/ENCFF000ESY.fastq.gz
+
+# Skeletal muscle myoblast
+https://www.encodeproject.org/files/ENCFF000GPC/@@download/ENCFF000GPC.fastq.gz
+https://www.encodeproject.org/files/ENCFF000GPO/@@download/ENCFF000GPO.fastq.gz
+
+# Skeletal muscle myoblast
+https://www.encodeproject.org/files/ENCFF000GPP/@@download/ENCFF000GPP.fastq.gz
+https://www.encodeproject.org/files/ENCFF000GPR/@@download/ENCFF000GPR.fastq.gz
+
+# IMR90
+https://www.encodeproject.org/files/ENCFF000HDD/@@download/ENCFF000HDD.fastq.gz
+https://www.encodeproject.org/files/ENCFF000HDF/@@download/ENCFF000HDF.fastq.gz
+
+# IMR90
+https://www.encodeproject.org/files/ENCFF000HDE/@@download/ENCFF000HDE.fastq.gz
+https://www.encodeproject.org/files/ENCFF000HDH/@@download/ENCFF000HDH.fastq.gz
+
+# Fibroblast of lung
+https://www.encodeproject.org/files/ENCFF000IJZ/@@download/ENCFF000IJZ.fastq.gz
+https://www.encodeproject.org/files/ENCFF000IKH/@@download/ENCFF000IKH.fastq.gz
+
+# Fibroblast of lung
+https://www.encodeproject.org/files/ENCFF000IKA/@@download/ENCFF000IKA.fastq.gz
+https://www.encodeproject.org/files/ENCFF000IKM/@@download/ENCFF000IKM.fastq.gz
+
+# Fibroblast of lung
+https://www.encodeproject.org/files/ENCFF000EFV/@@download/ENCFF000EFV.fastq.gz
+https://www.encodeproject.org/files/ENCFF000EFZ/@@download/ENCFF000EFZ.fastq.gz
+
+# Fibroblast of lung
+https://www.encodeproject.org/files/ENCFF000EFX/@@download/ENCFF000EFX.fastq.gz
+https://www.encodeproject.org/files/ENCFF000EGB/@@download/ENCFF000EGB.fastq.gz
+
+# Fibroblast of lung
+https://www.encodeproject.org/files/ENCFF000EFY/@@download/ENCFF000EFY.fastq.gz
+https://www.encodeproject.org/files/ENCFF000EGC/@@download/ENCFF000EGC.fastq.gz
+
+https://www.encodeproject.org/files/ENCFF000FHG/@@download/ENCFF000FHG.fastq.gz
+https://www.encodeproject.org/files/ENCFF000FHH/@@download/ENCFF000FHH.fastq.gz
+
+# Mammary epithelial
+https://www.encodeproject.org/files/ENCFF000GDZ/@@download/ENCFF000GDZ.fastq.gz
+https://www.encodeproject.org/files/ENCFF000GEO/@@download/ENCFF000GEO.fastq.gz
